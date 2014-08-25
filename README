@@ -1,3 +1,1 @@
-Unabashedly stolen from https://github.com/komljen/dockerfile-examples/tree/master/rails-sample-app
-
-Customized to use my sample_app_2nd_ed repository.
+I modified Alen Komljen's [Dockerfile](https://github.com/komljen/dockerfile-examples/tree/master/rails-sample-app) for Michael Hartl's [sample Rails app](https://github.com/railstutorial/sample_app_2nd_ed) to use [my fork](https://github.com/carmstrong/sample_app_2nd_ed) and to expose a different port.
