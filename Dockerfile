@@ -10,6 +10,6 @@ ADD start.sh start.sh
 
 VOLUME ["/data/app"]
 
-EXPOSE 3000
+EXPOSE 3333
 RUN rm /usr/sbin/policy-rc.d
 CMD ["/start.sh"]
